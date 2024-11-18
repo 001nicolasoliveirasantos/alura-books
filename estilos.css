@@ -15,8 +15,8 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
-    font-family: var(--fonte-principal);
+    background-color: var(#FF0000);
+    font-family: var(#0000ff / #00f );
     font-size: 16px;
     font-weight: 400;
 }
